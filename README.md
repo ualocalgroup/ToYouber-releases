@@ -6,12 +6,14 @@
 
 | Платформа | Версія | Доступність |
 | --- | --- | --- |
-| macOS 12+ | 1.3 build 32 | DMG, Intel x86_64 runtime; Apple Silicon через Rosetta. Ad-hoc підпис, без notarization |
+| macOS 12+ | 1.3 build 33 | DMG, Intel x86_64 runtime; Apple Silicon через Rosetta. Ad-hoc підпис, без notarization |
 | Windows 10/11 x64 | 1.2.16 preview | Попередній інсталятор із вибором папки; відстає від macOS. Запуск на Windows ще не підтверджений |
 | Android 8+ | 1.2 preview (code 3) | Попередня debug-підписана APK, arm64-v8a/x86_64. Перевірка на фізичному пристрої ще потрібна |
 | Linux | — | Збірка ще не доступна |
 
 Windows/Android розміщено в [окремому preview-релізі](https://github.com/ualocalgroup/ToYouber-releases/releases/tag/legacy-preview-2026-10-20), а не в стабільному каналі. Не всі останні зміни macOS є в цих збірках.
+
+У build 33 параметри оновлено в стилі Material 3 Expressive: великі групи вибору теми/мови, тональні поверхні й окремий блок оновлення.
 
 ## Встановлення
 
