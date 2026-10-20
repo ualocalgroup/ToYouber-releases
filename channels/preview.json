@@ -1,8 +1,27 @@
 {
   "schemaVersion": 1,
   "channel": "preview",
-  "artifacts": {},
+  "tag": "legacy-preview-2026-10-20",
+  "releaseUrl": "https://github.com/ualocalgroup/ToYouber-releases/releases/tag/legacy-preview-2026-10-20",
+  "artifacts": {
+    "windows-x86_64": {
+      "version": "1.2.16",
+      "build": 16,
+      "status": "preview-unverified-runtime",
+      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/legacy-preview-2026-10-20/ToYouber-Setup-x64.exe",
+      "sha256": "dceb469d606605382c71e5de6ca05d180fb55616c928d6a0df3c3c07f1c9796c",
+      "size": 197315594
+    },
+    "android-arm64-x86_64": {
+      "version": "1.2-android-preview",
+      "build": 3,
+      "status": "debug-preview-unverified-device",
+      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/legacy-preview-2026-10-20/ToYouber-Android.apk",
+      "sha256": "d3143b6ff401853f87256d0d651d5fb6bcf93cb9f20c9c4495fc75080e350e58",
+      "size": 120801629
+    }
+  },
   "unavailable": {
-    "all": "Initial publication pending"
+    "linux-x86_64": "Not implemented"
   }
 }
