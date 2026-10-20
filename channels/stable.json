@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "tag": "v1.3.31",
-  "releaseUrl": "https://github.com/ualocalgroup/ToYouber-releases/releases/tag/v1.3.31",
+  "tag": "v1.3.32",
+  "releaseUrl": "https://github.com/ualocalgroup/ToYouber-releases/releases/tag/v1.3.32",
   "artifacts": {
     "macos-x86_64": {
       "version": "1.3",
-      "build": 31,
+      "build": 32,
       "status": "stable",
-      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/v1.3.31/ToYouber.dmg",
-      "sha256": "8845f5fb478677f4a092cc51dc7ad2d99aa240f64f6e447b2e487a87555b805e",
-      "size": 152053784
+      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/v1.3.32/ToYouber.dmg",
+      "sha256": "95a010c76b338b856dcca41ba88d716d30404dd3201b88380ff197c20695d9a7",
+      "size": 153605978
     }
   },
   "unavailable": {
