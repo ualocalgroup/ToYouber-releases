@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "tag": "v1.3.93",
-  "releaseUrl": "https://github.com/ualocalgroup/ToYouber-releases/releases/tag/v1.3.93",
+  "tag": "v1.3.94",
+  "releaseUrl": "https://github.com/ualocalgroup/ToYouber-releases/releases/tag/v1.3.94",
   "artifacts": {
     "macos-x86_64": {
       "version": "1.3",
       "build": 93,
       "status": "stable",
-      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/v1.3.93/Holmie-macOS-1.3.93.dmg",
+      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/v1.3.94/Holmie-macOS-1.3.93.dmg",
       "sha256": "f9a94ff263ef1ac8cf8e814b93b20cf37d3c04d84e1bc1d85656caeed97ad579",
       "size": 163661433
     },
     "windows-x86_64": {
-      "version": "1.3.92",
-      "build": 92,
+      "version": "1.3.94",
+      "build": 94,
       "status": "stable",
-      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/v1.3.93/Holmie-Setup-x64.exe",
-      "sha256": "d424b4ccb12a70ee1396590baf346929966d75f39e21d08f7dd15c0ac587dc92",
-      "size": 272345484
+      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/v1.3.94/Holmie-Setup-1.3.94-x64.exe",
+      "sha256": "ea3439be5e313003849f5e477a2c86a7ae974de18178c6b960a0a484d30e26af",
+      "size": 272418487
     },
     "linux-x86_64": {
       "version": "1.3",
-      "build": 92,
+      "build": 94,
       "status": "stable",
-      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/v1.3.93/Holmie-1.3.92-linux.deb",
-      "sha256": "26a70147707dbc4bc115d1e98b939b130ac0bc2bd1b191b1d789509be72344c2",
-      "size": 9251754
+      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/v1.3.94/Holmie-1.3.94-linux.deb",
+      "sha256": "df84b99d6f1c0969f6961db876bf96143e799455bc66c00f6a668e03be2ebe28",
+      "size": 9255084
     }
   },
   "unavailable": {
