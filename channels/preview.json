@@ -1,27 +1,17 @@
 {
   "schemaVersion": 1,
   "channel": "preview",
-  "tag": "legacy-preview-2026-10-20",
-  "releaseUrl": "https://github.com/ualocalgroup/ToYouber-releases/releases/tag/legacy-preview-2026-10-20",
+  "tag": "android-v1.7.3-preview",
+  "releaseUrl": "https://github.com/ualocalgroup/ToYouber-releases/releases/tag/android-v1.7.3-preview",
   "artifacts": {
-    "windows-x86_64": {
-      "version": "1.2.16",
-      "build": 16,
-      "status": "preview-unverified-runtime",
-      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/legacy-preview-2026-10-20/ToYouber-Setup-x64.exe",
-      "sha256": "dceb469d606605382c71e5de6ca05d180fb55616c928d6a0df3c3c07f1c9796c",
-      "size": 197315594
-    },
     "android-arm64-x86_64": {
-      "version": "1.2-android-preview",
-      "build": 3,
-      "status": "debug-preview-unverified-device",
-      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/legacy-preview-2026-10-20/ToYouber-Android.apk",
-      "sha256": "d3143b6ff401853f87256d0d651d5fb6bcf93cb9f20c9c4495fc75080e350e58",
-      "size": 120801629
+      "version": "1.7.3",
+      "build": 11,
+      "status": "preview",
+      "url": "https://github.com/ualocalgroup/ToYouber-releases/releases/download/android-v1.7.3-preview/Holmie-Android-1.7.3-native-preview.apk",
+      "sha256": "ebab7dcedb356e22b176b27999145786d8a57140ce443b435bf337a593edc20c",
+      "size": 76485963
     }
   },
-  "unavailable": {
-    "linux-x86_64": "Not implemented"
-  }
+  "unavailable": {}
 }
